@@ -1,0 +1,1 @@
+HF_DATASET = 'dim/medical_qa_ru_prompts'
